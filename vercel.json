@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Editor.html" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
